@@ -1,10 +1,3 @@
-Here is your **updated README**, now including:
-
-✔ Python, TypeScript, Dockerfile, Shell, JavaScript badges
-✔ Google Drive demo video link
-✔ Clean GitHub-ready formatting
-
----
 
 # ☕🎙️ Coffee Shop Agent — Barista Voice Assistant
 
